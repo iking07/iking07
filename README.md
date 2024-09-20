@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hi,my name is Harsh</br>
+   Hello everyone,my name is Harsh</br>
 🔭 I’m currently interested on building projects that can have impact in real world.<br>🌱 I’m currently learning about Gen AI and ML applications.<br>💬 Ask me about how was my day?<br>
 
 
