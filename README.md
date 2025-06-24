@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
    Hello everyone,my name is Harsh Krishnan. </br>
-   I'm currently a 3rd Year student in Indian Institute of Information Technology Allahabad pursuing B.Tech in ECE.
-🔭 Currently interested on building projects that can have impact in real world.<br>
+    I'm currently a 3rd Year student in Indian Institute of Information Technology Allahabad pursuing B.Tech in ECE.<br>
+🔭  Currently interested on building projects that can have impact in real world.<br>
 
 
 ## 🌐 Socials:
