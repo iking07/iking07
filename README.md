@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-   Hello everyone,my name is Harsh Krishnan. </br>
-    I'm currently a 3rd Year student in Indian Institute of Information Technology Allahabad pursuing B.Tech in ECE.<br>
-🔭  Currently interested on building projects that can have impact in real world.<br>
+
+## 👋 Hello, I'm Harsh Krishnan
+
+I’m a **third-year undergraduate** at the **Indian Institute of Information Technology Allahabad**, pursuing **B.Tech in Electronics and Communication Engineering**.
+
+I’m deeply interested in building **real-world, impact-driven projects**, with a strong focus on **problem-solving**, **scalable systems**, and **practical applications of software engineering and machine learning**. I enjoy taking ideas from **concept to deployment**, ensuring solutions are **efficient, reliable, and meaningful** in real-world use.
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iking07&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -51,12 +55,17 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
 
+## 🏆 Highlights
+-  **Top 10** in **Opencode 24'** (1000+ points)
+-  **Top 100 teams nationwide** in **Amazon ML challenge 2025**
+-  Active in **competitive programming , ML systems, and full-stack development**
+
+
 ## 📊 GitHub Stats:
  ![](https://github-readme-streak-stats.herokuapp.com/?user=iking07&theme=dark&hide_border=false)<br/>
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iking07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![Harsh Krishnan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iking07&theme=dracula)
-![Metrics](https://metrics.lecoq.io/iking07?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia/Kolkata)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iking07&limit=5&theme=dark&combine_all_yearly_contributions=true)
