@@ -23,7 +23,6 @@ I’m deeply interested in building **real-world, impact-driven projects**, with
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iking07&label=Profile%20Views&color=0e75b6&style=flat)
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harshkrishnan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@harshkrishnancr.13) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@INSIGNIA_007) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@ewxmpsix-the-sans) 
 
