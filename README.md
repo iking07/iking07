@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me:
 
-## 👋 Hello, I'm Harsh Krishnan
+## 👋 Hello, I'm Harsh 
 
-I’m a **third-year undergraduate** at the **Indian Institute of Information Technology Allahabad**, pursuing **B.Tech in Electronics and Communication Engineering**.
+I’m a **third-year undergraduate** at the **Indian Institute of Information Technology Allahabad**.
 
 I’m deeply interested in building **real-world, impact-driven projects**, with a strong focus on **problem-solving**, **scalable systems**, and **practical applications of software engineering and machine learning**. I enjoy taking ideas from **concept to deployment**, ensuring solutions are **efficient, reliable, and meaningful** in real-world use.
 
