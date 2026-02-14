@@ -40,11 +40,11 @@ I’m deeply interested in building **real-world, impact-driven projects**, with
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma)
 
-### Cloud & DevOps
+<!--### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq) -->
 
 ### Frontend Styling
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
