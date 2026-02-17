@@ -66,7 +66,7 @@ I’m deeply interested in building **real-world, impact-driven projects**, with
 
 ![Harsh Krishnan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iking07&theme=dracula)
 
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iking07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
