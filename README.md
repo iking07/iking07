@@ -24,7 +24,12 @@ I’m deeply interested in building **real-world, impact-driven projects**, with
 ![Profile Views](https://komarev.com/ghpvc/?username=iking07&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harshkrishnan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@harshkrishnancr.13) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@INSIGNIA_007) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@ewxmpsix-the-sans) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshkrishnan)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harsh.krishnanofficial7@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harshkrishnancr.13)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/INSIGNIA_007)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ewxmpsix-the-sans)
+
 
 ## 💻 Tech Stack:
 
@@ -69,10 +74,8 @@ I’m deeply interested in building **real-world, impact-driven projects**, with
 
 ![Harsh Krishnan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iking07&theme=dracula)
 
-### 🤝 Let’s Connect  
-- 💻 **GitHub:** [iking07](https://github.com/iking07)  
-- 🔗 **LinkedIn:** [Harsh Krishnan](https://www.linkedin.com/in/harshkrishnan)   
-- ✉️ **Email:** : harsh.krishnanofficial7@gmail.com  
+
+
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iking07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
