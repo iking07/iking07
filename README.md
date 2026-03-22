@@ -61,11 +61,18 @@ I’m deeply interested in building **real-world, impact-driven projects**, with
 
 
 ## 📊 GitHub Stats:
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iking07&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iking07&layout=compact&theme=radical)  
+
  ![](https://github-readme-streak-stats.herokuapp.com/?user=iking07&theme=dark&hide_border=false)<br/>
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iking07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![Harsh Krishnan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iking07&theme=dracula)
 
+### 🤝 Let’s Connect  
+- 💻 **GitHub:** [iking07](https://github.com/iking07)  
+- 🔗 **LinkedIn:** [Harsh Krishnan](https://www.linkedin.com/in/harshkrishnan)   
+- ✉️ **Email:** : harsh.krishnanofficial7@gmail.com  
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iking07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
