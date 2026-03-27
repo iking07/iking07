@@ -66,9 +66,10 @@ I’m deeply interested in building **real-world, impact-driven projects**, with
 
 
 ## 📊 GitHub Stats:
+<!--
 ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iking07&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iking07&layout=compact&theme=radical)  
-
+-->
  ![](https://github-readme-streak-stats.herokuapp.com/?user=iking07&theme=dark&hide_border=false)<br/>
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iking07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
