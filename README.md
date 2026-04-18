@@ -43,7 +43,7 @@ I’m deeply interested in building **real-world, impact-driven projects**, with
 ### Databases & Caching
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma)
+<!-- ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma) -->
 
 <!--### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
