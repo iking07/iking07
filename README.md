@@ -61,7 +61,7 @@ I’m deeply interested in building **real-world, impact-driven projects**, with
 
 ## 🏆 Highlights
 -  **Top 10** in **Opencode 24'** (1000+ points)
--  **Top 100 teams nationwide** in **Amazon ML challenge 2025**
+-  **Top 200 teams nationwide** in **Amazon ML challenge 2025**
 -  Active in **competitive programming , ML systems, and full-stack development**
 
 
